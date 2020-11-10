@@ -36,6 +36,7 @@
 
 - [2020年11月07日_第8回目講義_土曜日コース_パート10_実装課題の説明](https://vimeo.com/476587960)
 - [2020年11月08日_第8回目講義_日曜日コース_パート10_Day08実装課題についての説明](https://vimeo.com/476797855) 
+- [2020年11月10日_第8回目講義_火曜日コース_パート10_実装課題の説明 on Vimeo](https://vimeo.com/477502646)
 
 1. `s3projects/day08_kadai_mohira8888_movie_analysis` を Clone する
 2. GitHub上で自身のリポジトリをつくる。ex: `s3projects/tunamayo9999_movie_analysis` 
