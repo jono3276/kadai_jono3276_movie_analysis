@@ -1,0 +1,38 @@
+interactions:
+  - request:
+      body: null
+      headers:
+        Accept:
+          - '*/*'
+        Accept-Encoding:
+          - gzip, deflate
+        Connection:
+          - keep-alive
+        User-Agent:
+          - python-requests/2.25.0
+      method: GET
+      uri: https://zipcloud.ibsnet.co.jp/api/search?zipcode=7830060
+    response:
+      body:
+        string: "{\n\t\"message\": null,\n\t\"results\": [\n\t\t{\n\t\t\t\"address1\"\
+        : \"\u9AD8\u77E5\u770C\",\n\t\t\t\"address2\": \"\u5357\u56FD\u5E02\",\n\t\
+        \t\t\"address3\": \"\u86CD\u304C\u4E18\",\n\t\t\t\"kana1\": \"\uFF7A\uFF73\
+        \uFF81\uFF79\uFF9D\",\n\t\t\t\"kana2\": \"\uFF85\uFF9D\uFF7A\uFF78\uFF7C\"\
+        ,\n\t\t\t\"kana3\": \"\uFF8E\uFF80\uFF99\uFF76\uFF9E\uFF75\uFF76\",\n\t\t\t\
+        \"prefcode\": \"39\",\n\t\t\t\"zipcode\": \"7830060\"\n\t\t}\n\t],\n\t\"status\"\
+        : 200\n}"
+      headers:
+        Content-Length:
+          - '290'
+        Content-Type:
+          - text/plain;charset=utf-8
+        Date:
+          - Fri, 13 Nov 2020 12:12:17 GMT
+        Server:
+          - Google Frontend
+        X-Cloud-Trace-Context:
+          - 39900b941da4e564c163b167dce1f392
+      status:
+        code: 200
+        message: OK
+version: 1
