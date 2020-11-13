@@ -2,7 +2,4 @@
 venv
 
 *.db
-output.csv
-
-my_movies.csv
-answer*
+*.csv
